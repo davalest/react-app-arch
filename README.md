@@ -1,5 +1,5 @@
 # react-app-arch
-This is a template for a multilayer organization React app divided into three important modules: data and UI.
+This is a template for a multilayer organization React app divided into two important modules: data and UI.
 In this way you can separate the part of the layout from the data management.
 
 Doing so, we decouple its content and can be replaced or reused with minor 
@@ -8,6 +8,11 @@ problems in the future without changing everything.
 ## Available Scripts
 
 In the project directory, you can run:
+
+
+### `npm install`
+
+Install all modules listed as dependencies in package.json
 
 ### `npm start`
 
